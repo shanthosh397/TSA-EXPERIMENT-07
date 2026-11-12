@@ -1,7 +1,7 @@
 # Experiment 07 – Spectral Analysis, Spectral Density and Time-Invariant Linear Filters
 
-### Name: HANIEL REENA D R
-### Register No: 2305001008
+### Name: SHANTHOSH G
+### Register No: 2305003008
 
 ## Aim
 To simulate a time series, calculate its spectral density, perform spectral analysis using the
